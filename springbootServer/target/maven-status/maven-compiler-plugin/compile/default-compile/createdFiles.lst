@@ -1,0 +1,9 @@
+com\serviceCaller\dao\IUserDao.class
+com\serviceCaller\pojo\ServiceRequest.class
+com\serviceCaller\pojo\LoginRes.class
+com\serviceCaller\SpringBootApplication.class
+com\serviceCaller\pojo\UserInfo.class
+com\serviceCaller\pojo\LoginReq.class
+com\serviceCaller\pojo\ServiceResponse.class
+com\serviceCaller\service\UserService.class
+com\serviceCaller\controller\ServiceController.class
